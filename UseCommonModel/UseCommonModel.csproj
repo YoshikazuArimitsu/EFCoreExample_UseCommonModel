@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\CommonModel\CommonModelLib\CommonModelLib.csproj" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.23" />
+  </ItemGroup>
+
 </Project>

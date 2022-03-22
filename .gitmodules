@@ -1,0 +1,3 @@
+[submodule "EFCoreExample_CommonModel"]
+	path = EFCoreExample_CommonModel
+	url = git@github.com:YoshikazuArimitsu/EFCoreExample_CommonModel.git
